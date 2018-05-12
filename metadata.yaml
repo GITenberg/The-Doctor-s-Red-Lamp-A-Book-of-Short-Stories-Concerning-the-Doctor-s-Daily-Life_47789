@@ -1,10 +1,14 @@
 _repo: The-Doctor-s-Red-Lamp-A-Book-of-Short-Stories-Concerning-the-Doctor-s-Daily-Life_47789
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Moulton, Charles Wells
       gutenberg_agent_id: '44469'
       url: http://www.gutenberg.org/2009/agents/44469
+covers:
+- cover_type: archival
+  image_path: 47789-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47789#The-Doctor-s-Red-Lamp-A-Book-of-Short-Stories-Concerning-the-Doctor-s-Daily-Life
 gutenberg_issued: '2014-12-27'
 gutenberg_type: Text
 identifiers:
